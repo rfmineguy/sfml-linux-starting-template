@@ -1,3 +1,0 @@
-/home/rfmineguy/Documents/c++/neovim_projects/sfmlgame/build/CMakeFiles/rebuild_cache.dir
-/home/rfmineguy/Documents/c++/neovim_projects/sfmlgame/build/CMakeFiles/edit_cache.dir
-/home/rfmineguy/Documents/c++/neovim_projects/sfmlgame/build/CMakeFiles/sfmlgame.dir
